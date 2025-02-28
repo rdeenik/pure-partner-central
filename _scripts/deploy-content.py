@@ -10,8 +10,9 @@ destination_directories = {
     "partnersbx": "/Users/rdeenik/LocalFiles/GitHub/pure-partner-central/partnersbx",
     "fullbackup": "/Users/rdeenik/LocalFiles/GitHub/pure-partner-central/fullbackup",
 }
-meta_filename = "_meta.json"
-content_filename = "content.json"
+
+META_FILENAME = "_meta.json"
+CONTENT_FILENAME = "content.json"
 
 def load_json(file_path):
     """Load JSON data from a file safely."""
@@ -23,26 +24,26 @@ def load_json(file_path):
         return None
 
 def find_matching_dirs(root_dir, target_path):
-    """Find directories containing _meta.json with matching path value."""
+    """Find directories containing META_FILENAME with matching path value."""
     matching_dirs = []
     for dirpath, _, filenames in os.walk(root_dir):
-        if "_meta.json" in filenames:
-            meta_data = load_json(os.path.join(dirpath, "_meta.json"))
+        if META_FILENAME in filenames:
+            meta_data = load_json(os.path.join(dirpath, META_FILENAME))
             if meta_data and meta_data.get("path") == target_path:
                 matching_dirs.append(dirpath)
     return matching_dirs
 
 def process_directory(dirpath, filenames):
     """Process a single source directory."""
-    if "_meta.json" not in filenames or "content.json" not in filenames:
+    if META_FILENAME not in filenames or CONTENT_FILENAME not in filenames:
         return
 
-    meta_data = load_json(os.path.join(dirpath, "_meta.json"))
+    meta_data = load_json(os.path.join(dirpath, META_FILENAME))
     if not meta_data or not meta_data.get("path"):
-        print(f"Skipping {dirpath} due to missing path in _meta.json.")
+        print(f"Skipping {dirpath} due to missing path in {META_FILENAME}.")
         return
     
-    content_file = os.path.join(dirpath, "content.json")
+    content_file = os.path.join(dirpath, CONTENT_FILENAME)
     source_content = load_json(content_file)
     
     for env, dest_root in destination_directories.items():
@@ -53,7 +54,7 @@ def deploy_content(env, dest_root, content_path, source_dir, content_file, sourc
     matching_dirs = find_matching_dirs(dest_root, content_path)
     
     for matching_dir in matching_dirs:
-        dest_content_file = os.path.join(matching_dir, "content.json")
+        dest_content_file = os.path.join(matching_dir, CONTENT_FILENAME)
         dest_content = load_json(dest_content_file)
         
         if dest_content and source_content and dest_content.get("title") == source_content.get("title"):
@@ -65,13 +66,13 @@ def deploy_content(env, dest_root, content_path, source_dir, content_file, sourc
     relative_path = os.path.relpath(source_dir, source_directory)
     new_dest_path = os.path.join(dest_root, relative_path)
     os.makedirs(new_dest_path, exist_ok=True)
-    dest_content_file = os.path.join(new_dest_path, "content.json")
+    dest_content_file = os.path.join(new_dest_path, CONTENT_FILENAME)
     print(f"Creating new content in {dest_content_file} for {env}.")
-    shutil.copy(os.path.join(source_dir, "_meta.json"), os.path.join(new_dest_path, "_meta.json"))
+    shutil.copy(os.path.join(source_dir, META_FILENAME), os.path.join(new_dest_path, META_FILENAME))
     shutil.copy(content_file, dest_content_file)
 
 def deploy_all():
-    """Loop through source directories and deploy content.json based on _meta.json path values."""
+    """Loop through source directories and deploy CONTENT_FILENAME based on META_FILENAME path values."""
     for dirpath, _, filenames in os.walk(source_directory):
         process_directory(dirpath, filenames)
 
