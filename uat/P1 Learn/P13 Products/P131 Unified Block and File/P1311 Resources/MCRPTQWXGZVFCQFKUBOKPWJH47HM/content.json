@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I13118 Learn>Products>UBF>Resources>Knowledge Base",
+  "contentBody" : {
+    "id" : "I13118 Learn>Products>UBF>Resources>Knowledge Base",
+    "body" : "<div><a href=\"https://support.purestorage.com/category/m_flasharray\">Knowledge Base</a></div>",
+    "headline" : "Knowledge Base",
+    "metadata1" : "https://support.purestorage.com/category/m_flasharray"
+  },
+  "urlName" : "i13118-learn-products-ubf-resources-knowledge-base"
+}
