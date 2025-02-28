@@ -23,6 +23,18 @@ def load_json(file_path):
         print(f"Warning: Could not parse JSON in {file_path}")
         return None
 
+def clean_meta_files():
+    """Loop through all META_FILENAME files in the source and remove 'contentKey' if present."""
+    for dirpath, _, filenames in os.walk(source_directory):
+        if META_FILENAME in filenames:
+            meta_file_path = os.path.join(dirpath, META_FILENAME)
+            meta_data = load_json(meta_file_path)
+            if meta_data and "contentKey" in meta_data:
+                del meta_data["contentKey"]
+                with open(meta_file_path, "w", encoding="utf-8") as f:
+                    json.dump(meta_data, f, indent=4)
+                print(f"Removed 'contentKey' from {meta_file_path}")
+
 def find_matching_dirs(root_dir, target_path):
     """Find directories containing META_FILENAME with matching path value."""
     matching_dirs = []
@@ -73,6 +85,7 @@ def deploy_content(env, dest_root, content_path, source_dir, content_file, sourc
 
 def deploy_all():
     """Loop through source directories and deploy CONTENT_FILENAME based on META_FILENAME path values."""
+    clean_meta_files()
     for dirpath, _, filenames in os.walk(source_directory):
         process_directory(dirpath, filenames)
 
