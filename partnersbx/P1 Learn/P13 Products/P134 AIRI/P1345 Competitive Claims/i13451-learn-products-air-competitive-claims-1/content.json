@@ -1,0 +1,10 @@
+{
+  "type" : "portal_content",
+  "title" : "I13451 Learn>Products>AIR>Competitive Claims>1",
+  "contentBody" : {
+    "body" : "<h2><strong>Claim #1:</strong> &#34;Competitors claim better performance and efficiency, maximizing GPU investment and optimizing TCO (Total Cost of Ownership).&#34;</h2><div><strong>Pure&#39;s Advantage: </strong>AIRI achieves a sweet spot of performance, density, and efficiency that maximizes GPU investment and optimizes TCO. It extends the power of NVIDIA DGX systems and slashes training job time significantly, making multi-node training simple.</div>",
+    "headline" : "Claim #1: \"Competitors claim better performance and efficiency, maximizing GPU investment and optimizing TCO (Total Cost of Ownership).\"",
+    "id" : "I13451 Learn>Products>AIR>Competitive Claims>1"
+  },
+  "urlName" : "i13451-learn-products-air-competitive-claims-1"
+}

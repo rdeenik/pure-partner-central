@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I13411 Learn>Products>AIR>Resources>Customer Presentation",
+  "contentBody" : {
+    "id" : "I13411 Learn>Products>AIR>Resources>Customer Presentation",
+    "body" : "<div><a href=\"https://www.purestorage.com\">Customer Presentation</a></div>",
+    "headline" : "Customer Presentation",
+    "metadata1" : "https://www.purestorage.com"
+  },
+  "urlName" : "i13411-learn-products-air-resources-customer-presentation"
+}
