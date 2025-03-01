@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I1311A Learn>Products>UBF>Resources>More Information",
+  "contentBody" : {
+    "id" : "I1311A Learn>Products>UBF>Resources>More Information",
+    "body" : "<div><a href=\"https://www.purestorage.com/products/unified-block-file-storage.html\">More Information</a></div>",
+    "headline" : "More Information",
+    "metadata1" : "https://www.purestorage.com/products/unified-block-file-storage.html"
+  },
+  "urlName" : "i1311a-learn-products-ubf-resources-more-information"
+}
