@@ -35,6 +35,18 @@ def clean_meta_files():
                     json.dump(meta_data, f, indent=4)
                 print(f"Removed 'contentKey' from {meta_file_path}")
 
+def clean_content_files():
+    """Loop through all CONTENT_FILENAME files in the source and remove 'image' if present."""
+    for dirpath, _, filenames in os.walk(source_directory):
+        if CONTENT_FILENAME in filenames:
+            content_file_path = os.path.join(dirpath, CONTENT_FILENAME)
+            content_data = load_json(content_file_path)
+            if content_data and "image" in content_data:
+                del content_data["image"]
+                with open(content_file_path, "w", encoding="utf-8") as f:
+                    json.dump(content_data, f, indent=4)
+                print(f"Removed 'image' from {content_file_path}")
+
 def find_matching_dirs(root_dir, target_path):
     """Find directories containing META_FILENAME with matching path value."""
     matching_dirs = []
@@ -86,6 +98,7 @@ def deploy_content(env, dest_root, content_path, source_dir, content_file, sourc
 def deploy_all():
     """Loop through source directories and deploy CONTENT_FILENAME based on META_FILENAME path values."""
     clean_meta_files()
+    clean_content_files()
     for dirpath, _, filenames in os.walk(source_directory):
         process_directory(dirpath, filenames)
 
