@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I13318 Learn>Products>AAB>Resources>Knowledge Base",
+  "contentBody" : {
+    "id" : "I13318 Learn>Products>AAB>Resources>Knowledge Base",
+    "body" : "<div><a href=\"https://support.purestorage.com/category/m_flashblade\">Knowledge Base (FB)</a></div>",
+    "headline" : "Knowledge Base",
+    "metadata1" : "https://support.purestorage.com/category/m_flasharray"
+  },
+  "urlName" : "i13318-learn-products-aab-resources-knowledge-base"
+}
