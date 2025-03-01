@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I13516 Learn>Products>FST>Resources>More Information",
+  "contentBody" : {
+    "id" : "I13516 Learn>Products>FST>Resources>More Information",
+    "body" : "<div><a href=\"https://www.flashstack.com/\">More Information</a></div>",
+    "headline" : "More Information",
+    "metadata1" : "https://www.flashstack.com/"
+  },
+  "urlName" : "i13516-learn-products-fst-resources-more-information"
+}

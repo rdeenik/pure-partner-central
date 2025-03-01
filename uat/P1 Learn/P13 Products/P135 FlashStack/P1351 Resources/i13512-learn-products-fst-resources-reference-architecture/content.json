@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I13512 Learn>Products>FST>Resources>Reference Architecture",
+  "contentBody" : {
+    "id" : "I13512 Learn>Products>FST>Resources>Reference Architecture",
+    "body" : "<div><a href=\"https://support.purestorage.com/bundle/m_flashstack_reference_architectures/page/FlashStack/FlashStack_Reference_Architectures/topics/concept/c_50th_celebration_of_flashstack_cisco_validated_designs.html\">Technical Presentation</a></div>",
+    "headline" : "Reference Architecture",
+    "metadata1" : "https://support.purestorage.com/bundle/m_flashstack_reference_architectures/page/FlashStack/FlashStack_Reference_Architectures/topics/concept/c_50th_celebration_of_flashstack_cisco_validated_designs.html"
+  },
+  "urlName" : "i13512-learn-products-fst-resources-reference-architecture"
+}
