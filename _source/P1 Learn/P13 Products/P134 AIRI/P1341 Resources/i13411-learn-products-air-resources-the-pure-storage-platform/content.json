@@ -1,11 +1,11 @@
 {
   "type" : "portal_content",
-  "title" : "I13411 Learn>Products>AIR>Resources>The Pure Storage Platform",
+  "title" : "I13411 Learn>Products>AIR>Resources>Customer Presentation",
   "contentBody" : {
-    "id" : "I13411 Learn>Products>AIR>Resources>The Pure Storage Platform",
-    "body" : "<div><a href=\"https://www.purestorage.com/demos/platform/what-is-the-pure-storage-platform.html\">The Pure Storage Platform</a></div>",
-    "headline" : "The Pure Storage Platform",
-    "metadata1" : "https://www.purestorage.com/demos/platform/what-is-the-pure-storage-platform.html"
+    "id" : "I13411 Learn>Products>AIR>Resources>Customer Presentation",
+    "body" : "<div><a href=\"javascript:void(0)\">Customer Presentation</a></div>",
+    "headline" : "Customer Presentation",
+    "metadata1" : "javascript:void(0)"
   },
-  "urlName" : "i13411-learn-products-air-resources-the-pure-storage-platform"
+  "urlName" : "i13411-learn-products-air-resources-customer-presentation"
 }
