@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I1341A Learn>Products>AIR>Resources>More Information",
+  "contentBody" : {
+    "id" : "I1341A Learn>Products>AIR>Resources>More Information",
+    "body" : "<div><a href=\"https://www.purestorage.com/products/unified-block-file-storage.html\">More Information</a></div>",
+    "headline" : "More Information",
+    "metadata1" : "https://www.purestorage.com/products/unified-block-file-storage.html"
+  },
+  "urlName" : "i1341a-learn-products-air-resources-more-information"
+}

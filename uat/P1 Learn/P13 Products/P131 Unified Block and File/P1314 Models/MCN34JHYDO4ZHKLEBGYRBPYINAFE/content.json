@@ -4,18 +4,7 @@
   "contentBody" : {
     "body" : "<h2>FlashArray//C™</h2><div>The perfect balance of performance and capacity delivering all the benefits of flash storage.Consolidate production workloads, virtualization, file, test/dev, disaster recovery, backup and restore data, and more on a single array—at a lower TCO than hybrid storage.</div>",
     "headline" : "FlashArray//C™",
-    "id" : "I13143 Learn>Products>UBF>Models>FA C",
-    "image" : {
-      "altText" : "",
-      "overrideAltText" : false,
-      "source" : {
-        "ref" : {
-          "contentKey" : "MCP5FA3DCEHVF33NPZVRS4FEWFQM"
-        },
-        "type" : "imageReference"
-      },
-      "url" : "/cms/media/MCP5FA3DCEHVF33NPZVRS4FEWFQM"
-    }
+    "id" : "I13143 Learn>Products>UBF>Models>FA C"
   },
   "urlName" : "i13143-learn-products-ubf-models-fa-c"
 }
