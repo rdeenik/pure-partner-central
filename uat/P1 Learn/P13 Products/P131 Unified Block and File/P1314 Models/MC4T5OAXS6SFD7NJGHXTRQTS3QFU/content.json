@@ -4,7 +4,18 @@
   "contentBody" : {
     "body" : "<h2>FlashArray//X™</h2><div>High performance block and file storage designed for mission critical workloads including tier 1 databases, large scale virtualization, and clout native applications.</div>",
     "headline" : "FlashArray//X™",
-    "id" : "I13142 Learn>Products>UBF>Models>FA X"
+    "id" : "I13142 Learn>Products>UBF>Models>FA X",
+    "image" : {
+      "altText" : "",
+      "overrideAltText" : false,
+      "source" : {
+        "ref" : {
+          "contentKey" : "MCO7TTLBHVKJF4RJSZARFEHLF4VI"
+        },
+        "type" : "imageReference"
+      },
+      "url" : "/cms/media/MCO7TTLBHVKJF4RJSZARFEHLF4VI"
+    }
   },
   "urlName" : "i13142-learn-products-ubf-models-fa-x"
 }

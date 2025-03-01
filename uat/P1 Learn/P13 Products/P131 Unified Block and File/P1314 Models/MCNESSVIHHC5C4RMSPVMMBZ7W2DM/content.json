@@ -4,7 +4,18 @@
   "contentBody" : {
     "body" : "<h2>FlashArray//E</h2><div>Scalable, energy-efficient flash storage for long-term data retention and secondary workloads. Eliminate the need for disk-based storage with better efficiency, reliability, and sustainability, all while reducing operating costs and energy consumption.</div>",
     "headline" : "FlashArray//E",
-    "id" : "I13144 Learn>Products>UBF>Models>FA E"
+    "id" : "I13144 Learn>Products>UBF>Models>FA E",
+    "image" : {
+      "altText" : "",
+      "overrideAltText" : false,
+      "source" : {
+        "ref" : {
+          "contentKey" : "MC75AEVSTW3BGFDMAIZEJZ2JJ54Q"
+        },
+        "type" : "imageReference"
+      },
+      "url" : "/cms/media/MC75AEVSTW3BGFDMAIZEJZ2JJ54Q"
+    }
   },
   "urlName" : "i13144-learn-products-ubf-models-fa-e"
 }
