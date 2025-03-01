@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I13418 Learn>Products>AIR>Resources>Knowledge Base",
+  "contentBody" : {
+    "id" : "I13418 Learn>Products>AIR>Resources>Knowledge Base",
+    "body" : "<div><a href=\"https://support.purestorage.com/category/m_flasharray\">Knowledge Base</a></div>",
+    "headline" : "Knowledge Base",
+    "metadata1" : "https://support.purestorage.com/category/m_flasharray"
+  },
+  "urlName" : "i13418-learn-products-air-resources-knowledge-base"
+}
