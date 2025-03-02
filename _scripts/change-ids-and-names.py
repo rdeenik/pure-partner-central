@@ -7,6 +7,8 @@ directory = "/Users/rdeenik/LocalFiles/GitHub/pure-partner-central/_source/P1 Le
 # Define search and replace values as variables
 search_replace_pairs = {
     "P13 Products": "P14 Solutions",
+    "Learn>Products>AIS": "Learn>Solutions>AIS",
+    "-learn-products-ais-": "-learn-solutions-ais-",
     "P131": "P141",
     "C131": "C141",
     "I131": "I141",
