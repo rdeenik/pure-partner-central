@@ -2,9 +2,8 @@
   "type" : "portal_content",
   "title" : "I14131 Learn>Solutions>AIS>Partner Benefits>1",
   "contentBody" : {
-    "id" : "I14131 Learn>Solutions>AIS>Partner Benefits>1",
-    "headline" : "Scalability and Performance",
-    "body" : "<h2><strong>Scalability and Performance</strong></h2><div>Pure Storage all flash solutions that never become obsolete enhance application performance and ensure efficient resource utilization. This allows you to offer high-performance solutions to your customers.</div>"
+    "body" : "<h2>Multi-dimensional performance at scale</h2><div>AI workloads generate diverse I/O profiles, making a consistent, multi-dimensional storage infrastructure vital for scalable, consolidated data and performance. Pure’s “AND, not OR” approach combines scale-out solutions for scalability with scale-up architectures needed for low-latency, transactional workloads like vector databases. Unified FlashArray™ and FlashBlade® consolidate block, file, and object storage for high scalability and performance. DirectFlash® technology removes SSD inefficiencies, centralizing IO path management for peak performance, while DirectFlash Modules (DFMs) offer high density (150TB today, 300TB soon) with top-tier resiliency (&lt;0.2% annual return rate) and zero downtime.</div>",
+    "id" : "I14131 Learn>Solutions>AIS>Partner Benefits>1"
   },
   "urlName" : "i14131-learn-solutions-ais-partner-benefits-1"
 }
