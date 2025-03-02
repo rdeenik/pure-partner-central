@@ -1,0 +1,13 @@
+{
+  "type" : "portal_content",
+  "title" : "I1411 Learn>Products>AIS>Header",
+  "contentBody" : {
+    "body" : "<h1>Artificial Intelligence</h1><div>Dynamic Storage with FlashArray™</div>",
+    "button" : "Learn more in our Partner Library",
+    "headline" : "Artificial Intelligence",
+    "id" : "I1411 Learn>Products>AIS>Header",
+    "metadata1" : "https://purestorage.seismic.com/Link/Content/DCmh3GRBphJ7HGmQVp7jMPXQJXQj",
+    "subheading" : "Dynamic Storage with FlashArray™"
+  },
+  "urlName" : "i1411-learn-products-ais-header"
+}
