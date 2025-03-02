@@ -2,17 +2,17 @@ import os
 import re
 
 # Define the directory containing the files
-directory = "/Users/rdeenik/LocalFiles/GitHub/pure-partner-central/_source/P1 Learn/P13 Products/P135 FlashStack"  # Change this to your target directory
+directory = "/Users/rdeenik/LocalFiles/GitHub/pure-partner-central/_source/P1 Learn/P14 Solutions/P141 Artificial Intelligence"  # Change this to your target directory
 
 # Define search and replace values as variables
 search_replace_pairs = {
-    "P131": "P135",
-    "C131": "C135",
-    "I131": "I135",
-    "i131": "i135",
-    "UBF": "FST",
-    "ubf": "fst",
-    "Unified Block and File": "FlashStack"
+    "P131": "P141",
+    "C131": "C141",
+    "I131": "I141",
+    "i131": "i141",
+    "UBF": "AIS",
+    "ubf": "ais",
+    "Unified Block and File": "Artificial Intelligence"
 }
 
 # Function to recursively process JSON files in the directory
