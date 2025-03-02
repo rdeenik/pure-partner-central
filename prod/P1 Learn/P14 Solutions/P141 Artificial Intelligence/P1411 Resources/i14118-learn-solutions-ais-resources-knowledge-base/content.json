@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14118 Learn>Solutions>AIS>Resources>Knowledge Base",
+  "contentBody" : {
+    "id" : "I14118 Learn>Solutions>AIS>Resources>Knowledge Base",
+    "body" : "<div><a href=\"https://support.purestorage.com/category/m_flasharray\">Knowledge Base</a></div>",
+    "headline" : "Knowledge Base",
+    "metadata1" : "https://support.purestorage.com/category/m_flasharray"
+  },
+  "urlName" : "i14118-learn-solutions-ais-resources-knowledge-base"
+}

@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14119 Learn>Solutions>AIS>Resources>End-of-Life information",
+  "contentBody" : {
+    "id" : "I14119 Learn>Solutions>AIS>Resources>End-of-Life information",
+    "body" : "<div><a href=\"https://support.purestorage.com/bundle/m_technical_services_information/page/Pure1/Pure1_Manage/003_Dashboards_and_Appliances/library/common_content/c_pure_storage_product_life_cycle_overview.html\">End-of-Life information</a></div>",
+    "headline" : "End-of-Life information",
+    "metadata1" : "https://support.purestorage.com/bundle/m_technical_services_information/page/Pure1/Pure1_Manage/003_Dashboards_and_Appliances/library/common_content/c_pure_storage_product_life_cycle_overview.html"
+  },
+  "urlName" : "i14119-learn-solutions-ais-resources-end-of-life-information"
+}
