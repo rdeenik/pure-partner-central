@@ -1,0 +1,13 @@
+{
+  "type" : "portal_content",
+  "title" : "I1451 Learn>Solutions>DEV>Header",
+  "contentBody" : {
+    "body" : "<h1>Application Development</h1><div>Unleash your developers with next-gen storage</div>",
+    "button" : "Learn more in our Partner Library",
+    "headline" : "Application Development",
+    "id" : "I1451 Learn>Solutions>DEV>Header",
+    "metadata1" : "https://purestorage.seismic.com/app#/doccenter/3d893b84-6890-4008-b12f-32c49c80011a/doc/%252Fdd854c8b87-29fb-4ea7-8b24-21e1f9f8def9%252FdfMmFlNWY4NjQtY2IyOS00ZGUxLTgyNTEtMjkwOWZjNjgyMDg1%252CPT0%253D%252CUGFnZXM%253D%252Flfd0485f42-a161-4e67-b9b1-ce9f71f557c0//?mode=view&searchId=6fa7fd61-0c29-40d6-aa1f-33d8964f8089",
+    "subheading" : "Unleash your developers with next-gen storage"
+  },
+  "urlName" : "i1451-learn-solutions-dev-header"
+}

@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14243 Learn>Solutions>CBR>Models>FlashBlade",
+  "contentBody" : {
+    "body" : "<h2>FlashBlade</h2><div>A unified fast file and object storage platform designed for cyber resilience, featuring immutable SafeMode Snapshots to protect against ransomware and data loss. With high-performance recovery, end-to-end encryption, and intelligent threat detection, FlashBlade ensures rapid restoration and business continuity—empowering organizations to defend, recover, and thrive in the face of cyber threats.</div>",
+    "id" : "I14243 Learn>Solutions>CBR>Models>FlashBlade"
+  },
+  "urlName" : "i14243-learn-solutions-cbr-models-flashblade"
+}

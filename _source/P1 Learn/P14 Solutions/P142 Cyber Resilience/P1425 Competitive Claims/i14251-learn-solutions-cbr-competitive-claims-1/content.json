@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14251 Learn>Solutions>CBR>Competitive Claims>1",
+  "contentBody" : {
+    "body" : "<h2>Claim #1: &#34;SafeMode requires additional capacity, making it costly.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> SafeMode snapshots are the most space efficient, indelible, encrypted snapshots available, taking up minimal space.  That  allows customers nearly unlimited numbers of snapshots at a frequency optimized for their own operations.  SafeMode is designed to balance protection and capacity utilization. By leveraging Pure1 Meta’s capacity planning capabilities, users can model the impact of regular snapshots and retention policies against their array’s live capacity data. This ensures that SafeMode can be implemented without significant additional costs.</div>",
+    "id" : "I14251 Learn>Solutions>CBR>Competitive Claims>1"
+  },
+  "urlName" : "i14251-learn-solutions-cbr-competitive-claims-1"
+}

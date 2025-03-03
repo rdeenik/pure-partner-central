@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14514 Learn>Solutions>DEV>Resources>Blog",
+  "contentBody" : {
+    "id" : "I14514 Learn>Solutions>DEV>Resources>Blog",
+    "body" : "<div><a href=\"https://portworx.com/blog/portworx-shines-in-the-2024-gigaom-kubernetes-data-storage-radar-report/\">Blog</a></div>",
+    "headline" : "Blog",
+    "metadata1" : "https://portworx.com/blog/portworx-shines-in-the-2024-gigaom-kubernetes-data-storage-radar-report/"
+  },
+  "urlName" : "i14514-learn-solutions-dev-resources-blog"
+}

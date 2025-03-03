@@ -2,7 +2,7 @@
   "type" : "portal_content",
   "title" : "I13452 Learn>Products>AIR>Competitive Claims>2",
   "contentBody" : {
-    "body" : "<h2><strong>Claim #2:</strong> &#34;Other solutions can scale more efficiently, allowing for independent scaling of compute and storage resources.&#34;</h2><div><strong>Pure&#39;s Advantage: </strong>AIRI's flexible, rack-scale architecture enables enterprises to add DGXs or blades independently, based on their growing AI initiatives. The entire stack is configured and tested as a complete solution, avoiding intricate configuration and tuning.</div>",
+    "body" : "<h2><strong>Claim #2:</strong> &#34;Other solutions can scale more efficiently, allowing for independent scaling of compute and storage resources.&#34;</h2><div><strong>Pure&#39;s Advantage: </strong>AIRI&#39;s flexible, rack-scale architecture enables enterprises to add DGXs or blades independently, based on their growing AI initiatives. The entire stack is configured and tested as a complete solution, avoiding intricate configuration and tuning.</div>",
     "headline" : "Claim #2: \"Other solutions can scale more efficiently, allowing for independent scaling of compute and storage resources.\"",
     "id" : "I13452 Learn>Products>AIR>Competitive Claims>2"
   },

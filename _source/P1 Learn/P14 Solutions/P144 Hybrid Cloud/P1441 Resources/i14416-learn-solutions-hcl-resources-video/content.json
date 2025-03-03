@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14416 Learn>Solutions>HCL>Resources>Video",
+  "contentBody" : {
+    "id" : "I14416 Learn>Solutions>HCL>Resources>Video",
+    "body" : "<div><a href=\"https://www.purestorage.com/demos/platform/what-is-the-pure-storage-platform/introduction-to-pure-cloud-block-store/6366204047112.html\">Video</a></div>",
+    "headline" : "Video",
+    "metadata1" : "https://www.purestorage.com/demos/platform/what-is-the-pure-storage-platform/introduction-to-pure-cloud-block-store/6366204047112.html"
+  },
+  "urlName" : "i14416-learn-solutions-hcl-resources-video"
+}
