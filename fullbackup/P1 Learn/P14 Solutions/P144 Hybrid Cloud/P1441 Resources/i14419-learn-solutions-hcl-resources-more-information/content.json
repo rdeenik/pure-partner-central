@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14418 Learn>Solutions>HCL>Resources>More Information",
+  "contentBody" : {
+    "id" : "I14418 Learn>Solutions>HCL>Resources>More Information",
+    "body" : "<div><a href=\"https://www.purestorage.com/solutions/cloud.html\">More Information</a></div>",
+    "headline" : "More Information",
+    "metadata1" : "https://www.purestorage.com/solutions/cloud.html"
+  },
+  "urlName" : "i14419-learn-solutions-hcl-resources-more-information"
+}

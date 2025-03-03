@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14137 Learn>Solutions>AIS>Partner Benefits>7",
+  "contentBody" : {
+    "body" : "<h2>Container orchestration and optimized Kubernetes support</h2><div>Orchestrating an AI pipeline requires seamless coordination, with Kubernetes at its core. The Pure Storage platform leverages Portworx®—a cloud-native data solution designed for Kubernetes and containerized applications—on a unified, scalable, and secure storage platform. It provides persistent storage for stateful workloads, zero-downtime disaster recovery, and seamless data portability, empowering enterprises to manage data-intensive applications across hybrid and multi-cloud environments with agility. This flexible platform integrates with any Kubernetes-enabled solution, from Kubeflow on Red Hat OpenShift to Milvus on Rancher, allowing clients to optimize their Kubernetes stack of choice.</div>",
+    "id" : "I14137 Learn>Solutions>AIS>Partner Benefits>7"
+  },
+  "urlName" : "i14137-learn-solutions-ais-partner-benefits-7"
+}

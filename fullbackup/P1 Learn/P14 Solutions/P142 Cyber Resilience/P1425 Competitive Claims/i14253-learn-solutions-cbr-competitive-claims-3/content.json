@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14253 Learn>Solutions>CBR>Competitive Claims>3",
+  "contentBody" : {
+    "body" : "<h2>Claim #3: &#34;SafeMode does not provide adequate protection against ransomware.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> SafeMode provides robust protection against ransomware by creating immutable snapshots that cannot be altered or deleted, even by administrators. This ensures that data can be quickly restored in the event of an attack. Additionally, SafeMode’s eradication timer prevents early or unwanted eradication of deleted data, providing an extra layer of security.</div>",
+    "id" : "I14253 Learn>Solutions>CBR>Competitive Claims>3"
+  },
+  "urlName" : "i14253-learn-solutions-cbr-competitive-claims-3"
+}

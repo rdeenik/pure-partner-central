@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14242 Learn>Solutions>CBR>Models>FlashArray",
+  "contentBody" : {
+    "body" : "<h2>FlashArray</h2><div>An enterprise-grade storage platform fortified with immutable SafeMode Snapshots to protect against ransomware and cyber threats. With always-on encryption, rapid recovery, and built-in anomaly detection, FlashArray ensures data integrity, minimizes downtime, and accelerates recovery—empowering organizations with a resilient, zero-trust approach to cyber resilience.</div>",
+    "id" : "I14242 Learn>Solutions>CBR>Models>FlashArray"
+  },
+  "urlName" : "i14242-learn-solutions-cbr-models-flasharray"
+}

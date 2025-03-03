@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14516 Learn>Solutions>DEV>Resources>Tools",
+  "contentBody" : {
+    "id" : "I14516 Learn>Solutions>DEV>Resources>Tools",
+    "body" : "<div><a href=\"https://code.purestorage.com/\">Tools</a></div>",
+    "headline" : "Tools",
+    "metadata1" : "https://code.purestorage.com/"
+  },
+  "urlName" : "i14516-learn-solutions-dev-resources-tools"
+}

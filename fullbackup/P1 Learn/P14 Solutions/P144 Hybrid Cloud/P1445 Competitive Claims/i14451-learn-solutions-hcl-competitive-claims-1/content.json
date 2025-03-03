@@ -1,0 +1,10 @@
+{
+  "type" : "portal_content",
+  "title" : "I14451 Learn>Solutions>HCL>Competitive Claims>1",
+  "contentBody" : {
+    "body" : "<h2>Claim #1: &#34;Competitors offer better performance and availability.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> Pure Cloud Block Store (CBS) provides superior performance and availability compared to competitors. CBS uses RAID-HA, which allows for dual failures of the backend ultra disks, providing higher availability than other solutions. Additionally, CBS leverages high-speed ultra disks for fast write caching and IO coalescing, resulting in a better-performing storage solution.</div>",
+    "headline" : "Claim #1: \"Competitors offer better performance and availability.\"",
+    "id" : "I14451 Learn>Solutions>HCL>Competitive Claims>1"
+  },
+  "urlName" : "i14451-learn-solutions-hcl-competitive-claims-1"
+}

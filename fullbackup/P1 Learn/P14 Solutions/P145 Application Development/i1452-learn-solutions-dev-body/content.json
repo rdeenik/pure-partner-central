@@ -1,0 +1,10 @@
+{
+  "type" : "portal_content",
+  "title" : "I1452 Learn>Solutions>DEV>Body",
+  "contentBody" : {
+    "body" : "<h1>Pure Storage leads in Application Development</h1><div>As organizations embrace cloud-native application development with microservice architectures and containers, ensuring simplified management throughout the container-based application lifecycle is critical. Containers are very different from traditional applications in that they are made up of many parts—pods, volumes, configurations—deployed at higher densities and updated more frequently. As a result, storage optimized for traditional applications may not work well for container-based applications. With Portworx, organizations gain a fully integrated platform for persistent storage, data protection, disaster recovery, data security, cross-cloud and data migrations, and automated capacity management for applications running on Kubernetes. The 2024 GigaOm Kubernetes Data Storage Radar Report has been released, and Portworx by Pure Storage is once again highlighted as a leader in the field of Kubernetes data storage. This is the 5th consecutive year that Portworx has been recognized as an Outperformer and underscores our commitment to providing innovative, robust, and scalable storage solutions for containerized environments. This year, Portworx is the only Outperforming vendor in the report.</div>",
+    "headline" : "Pure Storage leads in Application Development",
+    "id" : "I1452 Learn>Solutions>DEV>Body"
+  },
+  "urlName" : "i1452-learn-solutions-dev-body"
+}

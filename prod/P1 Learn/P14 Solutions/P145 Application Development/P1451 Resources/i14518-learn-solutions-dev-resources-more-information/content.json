@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14518 Learn>Solutions>DEV>Resources>More Information",
+  "contentBody" : {
+    "id" : "I14518 Learn>Solutions>DEV>Resources>More Information",
+    "body" : "<div><a href=\"https://www.purestorage.com/solutions/ai.html\">More Information</a></div>",
+    "headline" : "More Information",
+    "metadata1" : "https://www.purestorage.com/solutions/ai.html"
+  },
+  "urlName" : "i14518-learn-solutions-dev-resources-more-information"
+}

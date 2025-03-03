@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14316 Learn>Solutions>DNA>Resources>Testdrive",
+  "contentBody" : {
+    "id" : "I14316 Learn>Solutions>DNA>Resources>Testdrive",
+    "body" : "<div><a href=\"https://testdrive.purestorage.com/auth/login?/user/labs\">Testdrive</a></div>",
+    "headline" : "Testdrive",
+    "metadata1" : "https://testdrive.purestorage.com/auth/login?/user/labs"
+  },
+  "urlName" : "i14317-learn-solutions-dna-resources-testdrive"
+}

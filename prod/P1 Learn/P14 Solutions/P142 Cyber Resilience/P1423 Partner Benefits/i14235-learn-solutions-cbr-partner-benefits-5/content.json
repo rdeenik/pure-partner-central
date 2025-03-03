@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14235 Learn>Solutions>CBR>Partner Benefits>5",
+  "contentBody" : {
+    "body" : "<h2>SafeMode Snapshots</h2><div>SafeMode Snapshots protect against ransomware by creating immutable snapshots that cannot be altered or deleted, even by administrators. This feature ensures that data can be quickly restored in the event of an attack..</div>",
+    "id" : "I14235 Learn>Solutions>CBR>Partner Benefits>5"
+  },
+  "urlName" : "i14235-learn-solutions-cbr-partner-benefits-5"
+}

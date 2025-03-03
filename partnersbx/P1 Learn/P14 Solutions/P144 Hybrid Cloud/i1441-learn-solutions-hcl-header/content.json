@@ -1,0 +1,13 @@
+{
+  "type" : "portal_content",
+  "title" : "I1441 Learn>Solutions>HCL>Header",
+  "contentBody" : {
+    "body" : "<h1>Hybrid Cloud</h1><div>Make the most of your data, everywhere</div>",
+    "button" : "Learn more in our Partner Library",
+    "headline" : "Hybrid Cloud",
+    "id" : "I1441 Learn>Solutions>HCL>Header",
+    "metadata1" : "https://purestorage.seismic.com/Link/Content/DCjRjVRMc3dm2G7JCM7MdVDFThbP",
+    "subheading" : "Make the most of your data, everywhere"
+  },
+  "urlName" : "i1441-learn-solutions-hcl-header"
+}

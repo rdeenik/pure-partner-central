@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14442 Learn>Solutions>HCL>Models>FlashArray",
+  "contentBody" : {
+    "body" : "<h2>FlashArray</h2><div>Pure Storage FlashArray is the de facto standard for VMware environments, delivering unmatched performance, reliability, and deep integration for virtualization and cloud-native applications. With vVols, VM-aware snapshots, and seamless automation, FlashArray simplifies VMware operations, enhances workload mobility, and maximizes efficiency for enterprises running mission-critical applications.</div>",
+    "id" : "I14442 Learn>Solutions>HCL>Models>FlashArray"
+  },
+  "urlName" : "i14443-learn-solutions-hcl-models-flasharray"
+}

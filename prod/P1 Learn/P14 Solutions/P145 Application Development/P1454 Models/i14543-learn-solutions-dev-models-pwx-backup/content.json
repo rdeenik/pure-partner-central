@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14542 Learn>Solutions>DEV>Models>PWX Backup",
+  "contentBody" : {
+    "body" : "<h2>Portwrox Backup</h2><div>A modern, Kubernetes-native data protection solution designed to deliver seamless backup, disaster recovery, and migration for containerized applications. Built for scalability and security, it provides automated, policy-driven protection, instant recovery, and multi-cloud mobility to ensure business continuity for mission-critical workloads.</div>",
+    "id" : "I14542 Learn>Solutions>DEV>Models>PWX Backup"
+  },
+  "urlName" : "i14543-learn-solutions-dev-models-pwx-backup"
+}

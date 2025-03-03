@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14256 Learn>Solutions>CBR>Competitive Claims>6",
+  "contentBody" : {
+    "body" : "<h2>Claim #4: &#34;ActiveCluster does not provide adequate performance due to latency.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> ActiveCluster provides continuous, synchronous data replication between two arrays, ensuring that data between the two arrays is 100% in sync. While it requires a low-latency network connection between the arrays, the performance impact is minimal. ActiveCluster transparently handles writes to either array, and because the arrays are completely in sync, applications can continue uninterrupted even if one of the arrays fails. Additionally, ActiveCluster's design ensures that the replicated pods are always in sync, with a cost on front-end writes only due to network latency, which is managed effectively.</div>",
+    "id" : "I14256 Learn>Solutions>CBR>Competitive Claims>6"
+  },
+  "urlName" : "i14256-learn-solutions-cbr-competitive-claims-6"
+}

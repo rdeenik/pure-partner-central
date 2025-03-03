@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14554 Learn>Solutions>DEV>Competitive Claims>4",
+  "contentBody" : {
+    "body" : "<h2>Claim #4: &#34;Competitors argue that their solutions offer a better TCO, citing lower costs for compute and storage, reduced overhead, and more efficient resource utilization.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> Portworx's efficient data reduction technologies, such as deduplication and compression, significantly reduce storage costs. Additionally, Portworx offers competitive pricing compared to other solutions, such as Kasten, making it a cost-effective choice for container data management.</div>",
+    "id" : "I14554 Learn>Solutions>DEV>Competitive Claims>4"
+  },
+  "urlName" : "i14554-learn-solutions-dev-competitive-claims-4"
+}

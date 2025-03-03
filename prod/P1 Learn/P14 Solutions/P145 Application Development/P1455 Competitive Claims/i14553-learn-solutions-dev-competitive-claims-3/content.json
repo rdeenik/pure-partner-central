@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14553 Learn>Solutions>DEV>Competitive Claims>3",
+  "contentBody" : {
+    "body" : "<h2>Claim #3: &#34;Competitors claim their solutions are easier to deploy and manage, often highlighting features like simplified management interfaces.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> Portworx provides a Kubernetes Native Experience at the granularity of a container to its volume, simplifying deployment and management. It includes features like non-disruptive upgrades and integrated support for multiple protocols. Portworx also offers superior performance and ease of use, making it simpler to manage large-scale deployments.</div>",
+    "id" : "I14553 Learn>Solutions>DEV>Competitive Claims>3"
+  },
+  "urlName" : "i14553-learn-solutions-dev-competitive-claims-3"
+}

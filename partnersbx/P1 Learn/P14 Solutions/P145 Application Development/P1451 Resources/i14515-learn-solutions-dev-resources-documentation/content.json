@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14515 Learn>Solutions>DEV>Resources>Documentation",
+  "contentBody" : {
+    "id" : "I14515 Learn>Solutions>DEV>Resources>Documentation",
+    "body" : "<div><a href=\"https://docs.portworx.com/\">Documentation</a></div>",
+    "headline" : "Documentation",
+    "metadata1" : "https://docs.portworx.com/"
+  },
+  "urlName" : "i14515-learn-solutions-dev-resources-documentation"
+}

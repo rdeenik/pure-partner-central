@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14418 Learn>Solutions>HCL>Resources>POC License",
+  "contentBody" : {
+    "id" : "I14418 Learn>Solutions>HCL>Resources>POC License",
+    "body" : "<div><a href=\"https://support.purestorage.com/bundle/m_cbs_for_aws/page/Pure_Cloud_Block_Store/topics/concept/c_introduction_117.html\">POC License</a></div>",
+    "headline" : "POC License",
+    "metadata1" : "https://support.purestorage.com/bundle/m_cbs_for_aws/page/Pure_Cloud_Block_Store/topics/concept/c_introduction_117.html"
+  },
+  "urlName" : "i14418-learn-solutions-hcl-resources-poc"
+}

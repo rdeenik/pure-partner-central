@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14542 Learn>Solutions>DEV>Models>PDS",
+  "contentBody" : {
+    "body" : "<h2>Portworx data Services</h2><div>A fully managed Database-as-a-Service (DBaaS) platform that enables enterprises to deploy, operate, and scale stateful applications effortlessly. Built for Kubernetes, it delivers on-demand automation, high availability, and security across any cloud or on-premises environment, empowering developers to accelerate innovation with a seamless data experience.</div>",
+    "id" : "I14542 Learn>Solutions>DEV>Models>PDS"
+  },
+  "urlName" : "i14542-learn-solutions-dev-models-pds"
+}

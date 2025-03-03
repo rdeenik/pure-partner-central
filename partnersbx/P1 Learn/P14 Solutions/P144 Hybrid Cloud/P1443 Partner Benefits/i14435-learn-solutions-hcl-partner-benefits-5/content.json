@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14435 Learn>Solutions>HCL>Partner Benefits>5",
+  "contentBody" : {
+    "body" : "<h2>Automated, Open Private Cloud</h2><div>Streamline operations with powerful automation and orchestration tools. Pre-built integrations with Ansible, PowerShell, Puppet, Python, and SaltStack allow organizations to deploy infrastructure-as-code, accelerating DevOps workflows. This flexibility ensures that enterprises can tailor their technology stack to meet unique business requirements while maintaining control and efficiency in their private cloud.</div>",
+    "id" : "I14435 Learn>Solutions>HCL>Partner Benefits>5"
+  },
+  "urlName" : "i14435-learn-solutions-hcl-partner-benefits-5"
+}

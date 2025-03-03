@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14311 Learn>Solutions>DNA>Resources>Webinar",
+  "contentBody" : {
+    "id" : "I14311 Learn>Solutions>DNA>Resources>Webinar",
+    "body" : "<div><a href=\"https://www.purestorage.com/video/webinars/business-continuity-for-hybrid-database-environments/6323225818112.html\">Webinar</a></div>",
+    "headline" : "Webinar",
+    "metadata1" : "https://www.purestorage.com/video/webinars/business-continuity-for-hybrid-database-environments/6323225818112.html"
+  },
+  "urlName" : "i14313-learn-solutions-dna-resources-webinar"
+}

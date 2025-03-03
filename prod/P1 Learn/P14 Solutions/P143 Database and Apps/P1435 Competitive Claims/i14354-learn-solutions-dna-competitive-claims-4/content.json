@@ -1,0 +1,10 @@
+{
+  "type" : "portal_content",
+  "title" : "I14354 Learn>Solutions>DNA>Competitive Claims>4",
+  "contentBody" : {
+    "body" : "<h2>Claim #4: &#34;Pure Storage solutions do not provide the performance needed for demanding enterprise applications.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> Pure Storage solutions are optimized for high performance. For example, FlashBlade can handle small file random IO as well as large file sequential IO without the traps of a caching layer or knobs to tune. Additionally, Pure Storage's efficient data reduction technologies, such as deduplication and compression, significantly reduce storage costs while maintaining high performance. This ensures that demanding enterprise applications run efficiently and effectively on Pure Storage solutions.</div>",
+    "headline" : "Claim #4: \"Pure Storage solutions do not provide the performance needed for demanding enterprise applications.\"",
+    "id" : "I14354 Learn>Solutions>DNA>Competitive Claims>4"
+  },
+  "urlName" : "i14354-learn-solutions-dna-competitive-claims-4"
+}

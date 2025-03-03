@@ -1,0 +1,10 @@
+{
+  "type" : "portal_content",
+  "title" : "I14454 Learn>Solutions>HCL>Competitive Claims>4",
+  "contentBody" : {
+    "body" : "<h2>Claim #4: &#34;Native cloud storage solutions are sufficient for enterprise workloads.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> While native cloud storage solutions offer basic functionality, they are limited in efficiency, performance, and enterprise-grade data services. Pure Cloud Block Store enhances cloud storage by providing advanced data reduction, snapshots, and replication, reducing storage footprint and costs. With Pure, enterprises can save up to 50% on cloud storage costs while achieving higher performance and availability compared to native offerings.</div>",
+    "headline" : "Claim #4: \"Native cloud storage solutions are sufficient for enterprise workloads.\"",
+    "id" : "I14454 Learn>Solutions>HCL>Competitive Claims>4"
+  },
+  "urlName" : "i14454-learn-solutions-hcl-competitive-claims-4"
+}

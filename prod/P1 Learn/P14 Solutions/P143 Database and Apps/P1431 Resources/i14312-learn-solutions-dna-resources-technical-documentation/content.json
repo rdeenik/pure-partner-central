@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14312 Learn>Solutions>DNA>Resources>Technical Documentation",
+  "contentBody" : {
+    "id" : "I14312 Learn>Solutions>DNA>Resources>Technical Documentation",
+    "body" : "<div><a href=\"https://support.purestorage.com/Solutions/Microsoft_Platform_Guide/Microsoft_SQL_Server/003_Preserve_Database_Performance_When_Running_Mixed_Workloads\">Technical Documentation</a></div>",
+    "headline" : "Technical Documentation",
+    "metadata1" : "https://support.purestorage.com/Solutions/Microsoft_Platform_Guide/Microsoft_SQL_Server/003_Preserve_Database_Performance_When_Running_Mixed_Workloads"
+  },
+  "urlName" : "i14312-learn-solutions-dna-resources-technical-documentation"
+}

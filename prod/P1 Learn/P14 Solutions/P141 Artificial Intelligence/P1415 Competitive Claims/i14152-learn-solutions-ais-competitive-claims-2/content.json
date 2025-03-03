@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14152 Learn>Solutions>AIS>Competitive Claims>2",
+  "contentBody" : {
+    "body" : "<h2><strong>Claim #2:</strong> &#34;Pure Storage lacks a comprehensive full-stack AI solution.&#34;</h2><div><strong>Pure&#39;s Advantage: </strong>Pure Storage offers a range of full-stack AI infrastructure solutions, including AIRI (AI Ready Infrastructure) and the new Pure Storage GenAI Pod. These solutions provide turnkey designs built on the Pure Storage platform, enabling organizations to accelerate AI-powered innovation and reduce the time, cost, and specialty technical skills required to deploy AI projects. The GenAI Pod includes validated designs for various AI use cases, ensuring comprehensive support for AI initiatives.</div>",
+    "id" : "I14152 Learn>Solutions>AIS>Competitive Claims>2"
+  },
+  "urlName" : "i14152-learn-solutions-ais-competitive-claims-2"
+}

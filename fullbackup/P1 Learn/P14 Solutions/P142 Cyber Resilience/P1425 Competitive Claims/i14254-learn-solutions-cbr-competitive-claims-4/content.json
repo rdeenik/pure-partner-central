@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14254 Learn>Solutions>CBR>Competitive Claims>4",
+  "contentBody" : {
+    "body" : "<h2>Claim #4: &#34;ActiveCluster is complex and difficult to manage.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> ActiveCluster is designed for simplicity and ease of management. It uses a new type of replication relationship between two arrays, which can be set up by simply selecting sync-replication as the connection type when setting up a new replication connection. ActiveCluster is administratively disabled by default, so Pure Storage support assists with the qualification of the arrays to run ActiveCluster. Additionally, the Pure1 management platform simplifies the configuration and management of ActiveCluster, making it accessible even for non-storage administrators.</div>",
+    "id" : "I14254 Learn>Solutions>CBR>Competitive Claims>4"
+  },
+  "urlName" : "i14254-learn-solutions-cbr-competitive-claims-4"
+}

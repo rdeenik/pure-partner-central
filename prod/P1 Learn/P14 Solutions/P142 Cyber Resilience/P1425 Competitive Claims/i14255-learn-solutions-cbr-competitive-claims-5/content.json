@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14255 Learn>Solutions>CBR>Competitive Claims>5",
+  "contentBody" : {
+    "body" : "<h2>Claim #4: &#34;ActiveCluster requires identical arrays for configuration.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> ActiveCluster supports different models of arrays in a configuration. For example, a FlashArray//M can be paired with a FlashArray//XR2 to form an ActiveCluster solution over IP. This flexibility allows organizations to use existing hardware and scale their infrastructure without the need for identical arrays.</div>",
+    "id" : "I14255 Learn>Solutions>CBR>Competitive Claims>5"
+  },
+  "urlName" : "i14255-learn-solutions-cbr-competitive-claims-5"
+}

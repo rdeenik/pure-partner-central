@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14332 Learn>Solutions>DNA>Partner Benefits>2",
+  "contentBody" : {
+    "body" : "<h2>High Performance and Reliability</h2><div>Pure Storage solutions are optimized for high performance, ensuring that demanding enterprise applications run efficiently. Technologies like FlashBlade handle both small file random IO and large file sequential IO without performance degradation. Additionally, Pure Storage's efficient data reduction technologies, such as deduplication and compression, help maintain high performance while reducing storage costs. This reliability and performance make Pure Storage a compelling choice for partners looking to deliver top-tier solutions to their customers.</div>",
+    "id" : "I14332 Learn>Solutions>DNA>Partner Benefits>2"
+  },
+  "urlName" : "i14332-learn-solutions-dna-partner-benefits-2"
+}

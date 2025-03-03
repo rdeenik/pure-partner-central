@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14552 Learn>Solutions>DEV>Competitive Claims>2",
+  "contentBody" : {
+    "body" : "<h2><strong>Claim #2:</strong> &#34;Competitors assert that their solutions can scale more efficiently, allowing for independent scaling of compute and storage resources.&#34;</h2><div><strong>Pure&#39;s Advantage: </strong>Portworx Enterprise is a modern, distributed, container-optimized storage solution with elastic scaling. It supports 100,000 volumes in a single cluster and can support 1000+ nodes in a single cluster. This flexibility allows enterprises to scale their storage and compute resources independently based on their needs.</div>",
+    "id" : "I14552 Learn>Solutions>DEV>Competitive Claims>2"
+  },
+  "urlName" : "i14552-learn-solutions-dev-competitive-claims-2"
+}
