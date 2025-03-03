@@ -1,0 +1,10 @@
+{
+  "type" : "portal_content",
+  "title" : "I14154 Learn>Solutions>AIS>Competitive Claims>4",
+  "contentBody" : {
+    "body" : "<h2>Claim #4: &#34;Pure Storage solutions do not provide the performance needed for demanding AI applications.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> Pure Storage solutions deliver high performance and reliability for AI applications. The platform is built to maximize performance and efficiency, ensuring that GPUs and AI developers remain productive. The FlashBlade//S architecture, for example, is designed to handle high throughput and low latency, ensuring that complex AI training jobs complete quickly and without outages. Additionally, Pure Storage&#39;s partnership with NVIDIA ensures that their solutions are optimized for the most demanding AI data center requirements.</div>",
+    "headline" : "Claim #4: \"Pure's all-flash solutions are too niche for general workloads.\"",
+    "id" : "I14154 Learn>Solutions>AIS>Competitive Claims>4"
+  },
+  "urlName" : "i14154-learn-solutions-ais-competitive-claims-4"
+}

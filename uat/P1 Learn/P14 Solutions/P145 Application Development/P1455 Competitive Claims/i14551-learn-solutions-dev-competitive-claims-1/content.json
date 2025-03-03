@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14551 Learn>Solutions>DEV>Competitive Claims>1",
+  "contentBody" : {
+    "body" : "<h2>Claim #1: &#34;Competitors argue that their solutions offer better performance and efficiency, often highlighting superior performance metrics and resource utilization.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> Portworx offers superior performance even with the same high availability (repl=3) as other solutions. It also provides improvements with container granular replication settings and I/O profiles. Portworx is designed to distribute work over many parallel processes, increasing speed and efficiency.</div>",
+    "id" : "I14551 Learn>Solutions>DEV>Competitive Claims>1"
+  },
+  "urlName" : "i14551-learn-solutions-dev-competitive-claims-1"
+}

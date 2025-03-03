@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14441 Learn>Solutions>HCL>Models>AVS",
+  "contentBody" : {
+    "body" : "<h2>Azure VMware Solution</h2><div>Pure Storage Cloud Block Store integrates natively with Azure VMware Solution to provide enterprise-grade storage for VMware workloads in the cloud. By extending FlashArray capabilities to Azure, organizations gain seamless mobility, high availability, and cost-efficient disaster recovery—ensuring consistent performance and resilience across hybrid environments.</div>",
+    "id" : "I14441 Learn>Solutions>HCL>Models>AVS"
+  },
+  "urlName" : "i14441-learn-solutions-hcl-models-avs"
+}

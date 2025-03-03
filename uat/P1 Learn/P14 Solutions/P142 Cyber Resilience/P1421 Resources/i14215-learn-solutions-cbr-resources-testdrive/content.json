@@ -1,0 +1,11 @@
+{
+  "type" : "portal_content",
+  "title" : "I14215 Learn>Solutions>CBR>Resources>Test Drive",
+  "contentBody" : {
+    "id" : "I14215 Learn>Solutions>CBR>Resources>Test Drive",
+    "body" : "<div><a href=\"https://testdrive.purestorage.com/auth/login?/user/labs\">Test Drive</a></div>",
+    "headline" : "Test Drive",
+    "metadata1" : "https://testdrive.purestorage.com/auth/login?/user/labs"
+  },
+  "urlName" : "i14215-learn-solutions-cbr-resources-testdrive"
+}

@@ -1,0 +1,10 @@
+{
+  "type" : "portal_content",
+  "title" : "I14351 Learn>Solutions>DNA>Competitive Claims>1",
+  "contentBody" : {
+    "body" : "<h2>Claim #1: &#34;Pure Storage solutions are not scalable and cannot handle the rapid growth of database workloads.&#34;</h2><div><strong>Pure&#39;s Advantage:</strong> Pure Storage solutions are designed with scalability in mind. The Pure Storage platform allows organizations to bring their database data onto one unified platform with far fewer systems to manage. This approach eliminates data silos and integrates diverse data sources, irrespective of protocol, file size, or file/object count. The platform's engineered simplicity improves team productivity through automation and AI-driven insights, ensuring seamless scalability as database workloads grow.</div>",
+    "headline" : "Claim #1: \"Pure Storage solutions are not scalable and cannot handle the rapid growth of database workloads.\"",
+    "id" : "I14351 Learn>Solutions>DNA>Competitive Claims>1"
+  },
+  "urlName" : "i14351-learn-solutions-dna-competitive-claims-1"
+}

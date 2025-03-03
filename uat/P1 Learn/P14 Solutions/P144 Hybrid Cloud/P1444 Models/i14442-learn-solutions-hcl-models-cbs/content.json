@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14442 Learn>Solutions>HCL>Models>CBS",
+  "contentBody" : {
+    "body" : "<h2>Cloud Block Store</h2><div>Cloud Block Store brings enterprise-grade storage to the cloud, delivering consistent performance, data efficiency, and resilience across hybrid and multi-cloud environments. With seamless mobility between on-premises FlashArray and the cloud, CBS enables cost-effective disaster recovery, high availability, and simplified storage management for mission-critical workloads.</div>",
+    "id" : "I14442 Learn>Solutions>HCL>Models>CBS"
+  },
+  "urlName" : "i14441-learn-solutions-hcl-models-cbs"
+}

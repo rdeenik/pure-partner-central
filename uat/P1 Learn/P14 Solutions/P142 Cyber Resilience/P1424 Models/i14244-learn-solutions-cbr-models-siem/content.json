@@ -1,0 +1,9 @@
+{
+  "type" : "portal_content",
+  "title" : "I14244 Learn>Solutions>CBR>Models>SIEM",
+  "contentBody" : {
+    "body" : "<h2>SIEM and XDR</h2><div>Pure Storage seamlessly integrates with leading SIEM and XDR solutions like Splunk, QRadar, LogRhythm, and more to deliver high-performance threat detection, analysis, and remediation. With rapid data ingestion, real-time search, immutable storage, and automated recovery options, our solutions enhance cyber resilience—empowering security teams to detect, respond, and recover from threats with confidence.</div>",
+    "id" : "I14244 Learn>Solutions>CBR>Models>SIEM"
+  },
+  "urlName" : "i14244-learn-solutions-cbr-models-siem"
+}
